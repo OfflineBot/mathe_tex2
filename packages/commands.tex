@@ -1,0 +1,33 @@
+
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
+\setlength{\cftsecindent}{0pt}
+\setlength{\cftsubsecindent}{2em}
+\setlength{\cftsubsubsecindent}{4em}
+
+\renewcommand{\contentsname}{Inhalt} % table of contents <Name>
+
+\titleformat{\chapter}[block] %chapter format
+{\normalfont\huge\bfseries}{Kapitel \thechapter:}{20pt}{\huge} % chapter format
+
+%\titleformat{\section}[block]{\large\bfseries}{\thesection}{1em}{}
+%\titleformat{\subsection}[block]{\normalfont\bfseries}{\arabic{subsection}.}{1em}{}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftchapfont}{\normalfont}
+\renewcommand{\cftchappagefont}{\normalfont}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+
+\setlength\cellspacetoplimit{3pt}
+\setlength\cellspacebottomlimit{3pt}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\definecolor{bgcolor}{HTML}{1e1e1e}
+\definecolor{textcolor}{HTML}{acaccc}
+
+\pagecolor{bgcolor}
+\color{textcolor}
+
