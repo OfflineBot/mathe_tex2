@@ -13,74 +13,73 @@
 \contentsline {section}{\numberline {2.2}Integrale}{6}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Stammfunktion}{6}{subsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.1.1}(Aufleitungs-) Regeln}{6}{subsubsection.2.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.2}Zu Beachten}{6}{subsubsection.2.2.1.2}%
-\contentsline {subsection}{\numberline {2.2.2}Flächeninhalt}{6}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Zu Beachten}{7}{subsubsection.2.2.1.2}%
+\contentsline {subsection}{\numberline {2.2.2}Flächeninhalt}{7}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Rotationskörper}{7}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Uneigendliche Integrale}{8}{subsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.2.5}Mittelwerte}{8}{subsection.2.2.5}%
 \contentsline {section}{\numberline {2.3}Exponential und Logarithmusfunktion}{8}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Ableitung}{8}{subsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.1.1}Ableitungsregeln}{8}{subsubsection.2.3.1.1}%
-\contentsline {subsection}{\numberline {2.3.2}Eulerische Zahl: e}{8}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.1}Ableitung von e und ln(x)}{8}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Euler'sche Zahl: e}{8}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Exponentialrechnung}{8}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}Graphen}{8}{subsection.2.3.4}%
 \contentsline {subsection}{\numberline {2.3.5}Logarithmusfunktion}{8}{subsection.2.3.5}%
 \contentsline {subsection}{\numberline {2.3.6}Parameter}{8}{subsection.2.3.6}%
 \contentsline {subsection}{\numberline {2.3.7}Umkehrfunktion}{8}{subsection.2.3.7}%
-\contentsline {section}{\numberline {2.4}Funktionen und ihre Graphen}{8}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Strecken, Verschieben und Spiegeln von Graphen}{8}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Linearfaktordarstellung}{8}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Lösen von Gleichungen}{8}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Trigonometrische Funktionen}{8}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}waagerechte und senkrechte Asymptoten}{8}{subsection.2.4.5}%
-\contentsline {subsection}{\numberline {2.4.6}Graph und Funktionstherm}{8}{subsection.2.4.6}%
-\contentsline {subsection}{\numberline {2.4.7}Untersuchen von Funktionscharen}{8}{subsection.2.4.7}%
-\contentsline {subsection}{\numberline {2.4.8}Näherungsweise: Berechnen von Nullstellen}{8}{subsection.2.4.8}%
-\contentsline {section}{\numberline {2.5}Lineare Gleichungssysteme}{8}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Gauß-Verfahren}{8}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Lösungsmenge linearer Gleichungssysteme}{8}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Lineare Gleichungssysteme mit Parametern auf der rechten Seite}{8}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}Bestimmen von ganz rationaler Funktionen}{8}{subsection.2.5.4}%
-\contentsline {chapter}{\numberline {3}Vektoren/Geometrie}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Geraden und Ebenen}{9}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Vektoren im Raum}{9}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Geraden im Raum}{9}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Ebenen im Raum - Parameterform}{9}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}Skalarprodukt}{9}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}Ebenenformen}{9}{subsection.3.1.5}%
-\contentsline {subsubsection}{\numberline {3.1.5.1}Koordinatenform}{9}{subsubsection.3.1.5.1}%
-\contentsline {subsubsection}{\numberline {3.1.5.2}Normalenform}{9}{subsubsection.3.1.5.2}%
-\contentsline {subsection}{\numberline {3.1.6}Parameterform}{9}{subsection.3.1.6}%
-\contentsline {subsection}{\numberline {3.1.7}Ebenen veranschaulichen}{9}{subsection.3.1.7}%
-\contentsline {subsection}{\numberline {3.1.8}Lage von Ebenen und Geraden}{9}{subsection.3.1.8}%
-\contentsline {subsection}{\numberline {3.1.9}Lage von Ebenen}{9}{subsection.3.1.9}%
-\contentsline {section}{\numberline {3.2}Abstände und Winkel}{9}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Abstand von Punkt zu Ebene}{9}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Abstand von Punkt zu Gerade}{9}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Spiegelung und Symmetrie}{9}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Winkel zwischen Vektoren}{9}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Schnittwinkel}{9}{subsection.3.2.5}%
-\contentsline {subsection}{\numberline {3.2.6}Vektorprodukt - Kreuzprodukt}{9}{subsection.3.2.6}%
-\contentsline {subsection}{\numberline {3.2.7}Modellierung von geradlinigen Bewegungen}{9}{subsection.3.2.7}%
-\contentsline {subsection}{\numberline {3.2.8}Vektorielle Beweise}{9}{subsection.3.2.8}%
-\contentsline {chapter}{\numberline {4}Stochastik}{10}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Grundlagen der Wahrscheinlichkeit}{10}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Elementare Kombinatorik}{10}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Pfadregeln und Erwartungswerte}{10}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Bedingte Wahrscheinlichkeit}{10}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Stochastische Unabhängigkeiten}{10}{subsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.1.5}Formel von Bernoulli und Binomialverteilung}{10}{subsection.4.1.5}%
-\contentsline {subsection}{\numberline {4.1.6}Erwartungswert und Histogramm}{10}{subsection.4.1.6}%
-\contentsline {subsection}{\numberline {4.1.7}Problemlösen mit der Binomalverteilung}{10}{subsection.4.1.7}%
-\contentsline {section}{\numberline {4.2}Normalverteilung}{10}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Normalverteilung}{10}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Gauß'sche Glockenfunktion}{10}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Sigma-Regeln}{10}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Umkehraufgaben zur Normalverteilung}{10}{subsection.4.2.4}%
-\contentsline {subsection}{\numberline {4.2.5}Stetige Zufallsgrößen}{10}{subsection.4.2.5}%
-\contentsline {section}{\numberline {4.3}Testen mit der Binomialverteilung}{10}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Einseitiger Hypothesentest}{10}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Fehler beim Testen von Hypothesen}{10}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Wahl der Nullhypothese}{10}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}Zweiseitiger Hypothesentest}{10}{subsection.4.3.4}%
-\contentsline {chapter}{\numberline {5}Das fehlt noch/muss ergänzt werden}{11}{chapter.5}%
+\contentsline {section}{\numberline {2.4}Funktionen und ihre Graphen}{9}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Strecken, Verschieben und Spiegeln von Graphen}{9}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Linearfaktordarstellung}{9}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Lösen von Gleichungen}{9}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Trigonometrische Funktionen}{9}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}waagerechte und senkrechte Asymptoten}{9}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Graph und Funktionstherm}{9}{subsection.2.4.6}%
+\contentsline {subsection}{\numberline {2.4.7}Untersuchen von Funktionscharen}{9}{subsection.2.4.7}%
+\contentsline {subsection}{\numberline {2.4.8}Näherungsweise: Berechnen von Nullstellen}{9}{subsection.2.4.8}%
+\contentsline {section}{\numberline {2.5}Lineare Gleichungssysteme}{9}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Gauß-Verfahren}{9}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Lösungsmenge linearer Gleichungssysteme}{9}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Lineare Gleichungssysteme mit Parametern auf der rechten Seite}{9}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Bestimmen von ganz rationaler Funktionen}{9}{subsection.2.5.4}%
+\contentsline {chapter}{\numberline {3}Vektoren/Geometrie}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Geraden und Ebenen}{10}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Vektoren im Raum}{10}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Geraden im Raum}{10}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Ebenen im Raum - Parameterform}{10}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Skalarprodukt}{10}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Ebenenformen}{10}{subsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.5.1}Koordinatenform}{10}{subsubsection.3.1.5.1}%
+\contentsline {subsubsection}{\numberline {3.1.5.2}Normalenform}{10}{subsubsection.3.1.5.2}%
+\contentsline {subsection}{\numberline {3.1.6}Parameterform}{10}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}Ebenen veranschaulichen}{10}{subsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.1.8}Lage von Ebenen und Geraden}{10}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}Lage von Ebenen}{10}{subsection.3.1.9}%
+\contentsline {section}{\numberline {3.2}Abstände und Winkel}{10}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Abstand von Punkt zu Ebene}{10}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Abstand von Punkt zu Gerade}{10}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Spiegelung und Symmetrie}{10}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Winkel zwischen Vektoren}{10}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Schnittwinkel}{10}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Vektorprodukt - Kreuzprodukt}{10}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}Modellierung von geradlinigen Bewegungen}{10}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.2.8}Vektorielle Beweise}{10}{subsection.3.2.8}%
+\contentsline {chapter}{\numberline {4}Stochastik}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Grundlagen der Wahrscheinlichkeit}{11}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Elementare Kombinatorik}{11}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Pfadregeln und Erwartungswerte}{11}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Bedingte Wahrscheinlichkeit}{11}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Stochastische Unabhängigkeiten}{11}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Formel von Bernoulli und Binomialverteilung}{11}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Erwartungswert und Histogramm}{11}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Problemlösen mit der Binomalverteilung}{11}{subsection.4.1.7}%
+\contentsline {section}{\numberline {4.2}Normalverteilung}{11}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Normalverteilung}{11}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Gauß'sche Glockenfunktion}{11}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Sigma-Regeln}{11}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Umkehraufgaben zur Normalverteilung}{11}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Stetige Zufallsgrößen}{11}{subsection.4.2.5}%
+\contentsline {section}{\numberline {4.3}Testen mit der Binomialverteilung}{11}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Einseitiger Hypothesentest}{11}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Fehler beim Testen von Hypothesen}{11}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Wahl der Nullhypothese}{11}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Zweiseitiger Hypothesentest}{11}{subsection.4.3.4}%
+\contentsline {chapter}{\numberline {5}Das fehlt noch/muss ergänzt werden}{12}{chapter.5}%
