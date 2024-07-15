@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.7.9)  13 JUL 2024 21:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.7.9)  13 JUL 2024 21:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -842,17 +842,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--25
 
  []
 
-[11])) (./src/vektoren/geraden_und_ebenen/ebenen_veranschaulichen.tex) (./src/vektoren/geraden_und_ebenen/lage_von_geraden.tex) (./src/vektoren/geraden_und_ebenen/lagen_von_ebenen_und_geraden.tex) (./src/vektoren/geraden_und_ebenen/lage_von_ebenen.tex)) (./src/vektoren/abstände_und_winkel.tex (./src/vektoren/abstände_und_winkel/abstand_punkt_ebene.tex) (./src/vektoren/abstände_und_winkel/abstand_punkt_gerade.tex) (./src/vektoren/abstände_und_winkel/spiegelung_und_symmetrie.tex) (./src/vektoren/abstände_und_winkel/winkel_zwischen_vektoren.tex
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+)) (./src/vektoren/geraden_und_ebenen/ebenen_veranschaulichen.tex) (./src/vektoren/geraden_und_ebenen/lage_von_geraden.tex) (./src/vektoren/geraden_und_ebenen/lagen_von_ebenen_und_geraden.tex) (./src/vektoren/geraden_und_ebenen/lage_von_ebenen.tex)) (./src/vektoren/abstände_und_winkel.tex (./src/vektoren/abstände_und_winkel/abstand_punkt_ebene.tex) (./src/vektoren/abstände_und_winkel/abstand_punkt_gerade.tex) (./src/vektoren/abstände_und_winkel/spiegelung_und_symmetrie.tex) (./src/vektoren/abstände_und_winkel/winkel_zwischen_vektoren.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--22
 
  []
 
-) (./src/vektoren/abstände_und_winkel/schnittwinkel.tex) (./src/vektoren/abstände_und_winkel/vektorprodukt.tex) (./src/vektoren/abstände_und_winkel/modellierung_geradlinigen_bewegungen.tex
+) (./src/vektoren/abstände_und_winkel/schnittwinkel.tex [12]) (./src/vektoren/abstände_und_winkel/vektorprodukt.tex) (./src/vektoren/abstände_und_winkel/modellierung_geradlinigen_bewegungen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
  []
 
-[12]) (./src/vektoren/abstände_und_winkel/vektorielle_beweise.tex))) (./src/stochastik.tex [13]
+) (./src/vektoren/abstände_und_winkel/vektorielle_beweise.tex))) (./src/stochastik.tex [13]
 Chapter 4.
 (./src/stochastik/grundlagen_der_wahrscheinlichkeit.tex (./src/stochastik/grundlagen_der_wahrscheinlichkeit/elementare_kombinatorik.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/pfadregeln_und_erwartungswerte.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/bedingte_wahrscheinlichkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/stochastische_unabhängigkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/formel_von_bernoulli_und_binomialverteilung.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/erwartungswert_und_histogramm.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/problemlösen_mit_binomialverteilung.tex)) (./src/stochastik/normalverteilung.tex (./src/stochastik/normalverteilung/normalverteilung.tex) (./src/stochastik/normalverteilung/gaußsche_glockenfunktion.tex) (./src/stochastik/normalverteilung/sigma_regeln.tex) (./src/stochastik/normalverteilung/umkehraufgaben_zur_normalverteilung.tex) (./src/stochastik/normalverteilung/stetige_zufallsgrößen.tex)) (./src/stochastik/testen_mit_der_binomialverteilung.tex (./src/stochastik/testen_mit_der_binomialverteilung/einseitiger_hpothesentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/fehler_beim_testen_von_hypthesen.tex) (./src/stochastik/testen_mit_der_binomialverteilung/wahl_der_nullhypothese.tex) (./src/stochastik/testen_mit_der_binomialverteilung/zweiseitiger_hypothentest.tex))) (./src/fehlt.tex [14
 
@@ -873,7 +878,7 @@ Here is how much of TeX's memory you used:
  1137 hyphenation exceptions out of 8191
  96i,13n,93p,1001b,523s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (16 pages, 231233 bytes).
+Output written on main.pdf (16 pages, 231554 bytes).
 PDF statistics:
  635 PDF objects out of 1000 (max. 8388607)
  584 compressed objects within 6 object streams
