@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.7.9)  13 JUL 2024 21:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.7.9)  15 JUL 2024 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -648,14 +648,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 ...line {3}Vektoren/Geometrie}{10}{chapter.3}
+l.43 ...line {3}Vektoren/Geometrie}{11}{chapter.3}
                                                   % [1])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- (./src/allgemein.tex [2]
+ (./src/allgemein.tex [2] [3]
 Chapter 1.
-(./src/allgemein/wichitge_formeln.tex)) (./src/analysis.tex [3
+(./src/allgemein/wichitge_formeln.tex)) (./src/analysis.tex [4
 
 ]
 Chapter 2.
@@ -702,7 +702,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--1
 
  []
 
-[4
+[5
 
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 Underfull \hbox (badness 10000) in paragraph at lines 14--20
@@ -724,7 +724,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--11
 
  []
 
-[5]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
@@ -764,7 +764,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--26
 
  []
 
-[6]) (./src/analysis/integrale/flächeninhalt.tex) (./src/analysis/integrale/rotationskörper.tex
+[7]) (./src/analysis/integrale/flächeninhalt.tex) (./src/analysis/integrale/rotationskörper.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--1
 
  []
@@ -784,12 +784,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--1
 
  []
 
-[7{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}])) (./src/analysis/exponential_und_logarithmusfunktion.tex (./src/analysis/exponential_und_logarithmusfunktion/ableitung.tex) (./src/analysis/exponential_und_logarithmusfunktion/eulerische_zahl.tex
+[8{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}])) (./src/analysis/exponential_und_logarithmusfunktion.tex (./src/analysis/exponential_und_logarithmusfunktion/ableitung.tex) (./src/analysis/exponential_und_logarithmusfunktion/eulerische_zahl.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--1
 
  []
 
-) (./src/analysis/exponential_und_logarithmusfunktion/exponentialrechnung.tex) (./src/analysis/exponential_und_logarithmusfunktion/graphen.tex) (./src/analysis/exponential_und_logarithmusfunktion/logarithmusfunktion.tex) (./src/analysis/exponential_und_logarithmusfunktion/parameter.tex) (./src/analysis/exponential_und_logarithmusfunktion/umkehrfunktion.tex)) (./src/analysis/funktionen_und_ihre_graphen.tex (./src/analysis/funktionen_und_ihre_graphen/strecke_verschieben_und_spiegeln_von_graphen.tex) (./src/analysis/funktionen_und_ihre_graphen/linearfaktordarstellung.tex) (./src/analysis/funktionen_und_ihre_graphen/lösen_von_gleichungen.tex) (./src/analysis/funktionen_und_ihre_graphen/trigonometrische_funktionen.tex) (./src/analysis/funktionen_und_ihre_graphen/waagerechte_und_senkrechte_asymptoten.tex) (./src/analysis/funktionen_und_ihre_graphen/graph_und_funktionstherm.tex) (./src/analysis/funktionen_und_ihre_graphen/untersuchen_von_funktionscharen.tex) (./src/analysis/funktionen_und_ihre_graphen/näherungsweise.tex)) (./src/analysis/lineare_gleichungssysteme.tex (./src/analysis/lineare_gleichungssysteme/gauß_verfahren.tex) (./src/analysis/lineare_gleichungssysteme/lösungsmengen.tex) (./src/analysis/lineare_gleichungssysteme/lineare_gleichungssysteme_mit_parametern_auf_rechte_seite.tex) (./src/analysis/lineare_gleichungssysteme/bestimmen_ganz_rationaler_funktionen.tex))) (./src/vektoren.tex [8] [9]
+) (./src/analysis/exponential_und_logarithmusfunktion/exponentialrechnung.tex) (./src/analysis/exponential_und_logarithmusfunktion/graphen.tex) (./src/analysis/exponential_und_logarithmusfunktion/logarithmusfunktion.tex) (./src/analysis/exponential_und_logarithmusfunktion/parameter.tex) (./src/analysis/exponential_und_logarithmusfunktion/umkehrfunktion.tex)) (./src/analysis/funktionen_und_ihre_graphen.tex (./src/analysis/funktionen_und_ihre_graphen/strecke_verschieben_und_spiegeln_von_graphen.tex) (./src/analysis/funktionen_und_ihre_graphen/linearfaktordarstellung.tex) (./src/analysis/funktionen_und_ihre_graphen/lösen_von_gleichungen.tex) (./src/analysis/funktionen_und_ihre_graphen/trigonometrische_funktionen.tex) (./src/analysis/funktionen_und_ihre_graphen/waagerechte_und_senkrechte_asymptoten.tex) (./src/analysis/funktionen_und_ihre_graphen/graph_und_funktionstherm.tex) (./src/analysis/funktionen_und_ihre_graphen/untersuchen_von_funktionscharen.tex) (./src/analysis/funktionen_und_ihre_graphen/näherungsweise.tex)) (./src/analysis/lineare_gleichungssysteme.tex (./src/analysis/lineare_gleichungssysteme/gauß_verfahren.tex) (./src/analysis/lineare_gleichungssysteme/lösungsmengen.tex) (./src/analysis/lineare_gleichungssysteme/lineare_gleichungssysteme_mit_parametern_auf_rechte_seite.tex) (./src/analysis/lineare_gleichungssysteme/bestimmen_ganz_rationaler_funktionen.tex))) (./src/vektoren.tex [9] [10]
 Chapter 3.
 (./src/vektoren/geraden_und_ebenen.tex (./src/vektoren/geraden_und_ebenen/vektoren_im_raum.tex) (./src/vektoren/geraden_und_ebenen/geraden_im_raum.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--9
@@ -811,77 +811,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--15
 
  []
 
-[10
+[11
 
-]) (./src/vektoren/geraden_und_ebenen/ebenenformen.tex (./src/vektoren/geraden_und_ebenen/ebenenformen/koordinatenform.tex) (./src/vektoren/geraden_und_ebenen/ebenenformen/normalenform.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
-
- []
-
-) (./src/vektoren/geraden_und_ebenen/ebenenformen/parameterform.tex
-
-LaTeX Warning: Command \ss invalid in math mode on input line 20.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--25
+]) (./src/vektoren/geraden_und_ebenen/ebenenformen.tex (./src/vektoren/geraden_und_ebenen/ebenenformen/koordinatenform.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--25
+Underfull \hbox (badness 10000) in paragraph at lines 3--19
+
+ []
+
+) (./src/vektoren/geraden_und_ebenen/ebenenformen/normalenform.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--25
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--25
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 30--32
+[12]) (./src/vektoren/geraden_und_ebenen/ebenenformen/parameterform.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--31
 
  []
 
-)) (./src/vektoren/geraden_und_ebenen/ebenen_veranschaulichen.tex) (./src/vektoren/geraden_und_ebenen/lage_von_geraden.tex) (./src/vektoren/geraden_und_ebenen/lagen_von_ebenen_und_geraden.tex) (./src/vektoren/geraden_und_ebenen/lage_von_ebenen.tex)) (./src/vektoren/abstände_und_winkel.tex (./src/vektoren/abstände_und_winkel/abstand_punkt_ebene.tex) (./src/vektoren/abstände_und_winkel/abstand_punkt_gerade.tex) (./src/vektoren/abstände_und_winkel/spiegelung_und_symmetrie.tex) (./src/vektoren/abstände_und_winkel/winkel_zwischen_vektoren.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--31
+
+ []
+
+) (./src/vektoren/geraden_und_ebenen/ebenenformen/umwandlungen.tex)) (./src/vektoren/geraden_und_ebenen/ebenen_veranschaulichen.tex) (./src/vektoren/geraden_und_ebenen/lage_von_geraden.tex) (./src/vektoren/geraden_und_ebenen/lagen_von_ebenen_und_geraden.tex) (./src/vektoren/geraden_und_ebenen/lage_von_ebenen.tex)) (./src/vektoren/abstände_und_winkel.tex (./src/vektoren/abstände_und_winkel/abstand_punkt_ebene.tex) (./src/vektoren/abstände_und_winkel/abstand_punkt_gerade.tex) (./src/vektoren/abstände_und_winkel/spiegelung_und_symmetrie.tex) (./src/vektoren/abstände_und_winkel/winkel_zwischen_vektoren.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--22
 
  []
 
-) (./src/vektoren/abstände_und_winkel/schnittwinkel.tex [12]) (./src/vektoren/abstände_und_winkel/vektorprodukt.tex) (./src/vektoren/abstände_und_winkel/modellierung_geradlinigen_bewegungen.tex
+[13]) (./src/vektoren/abstände_und_winkel/schnittwinkel.tex) (./src/vektoren/abstände_und_winkel/vektorprodukt.tex) (./src/vektoren/abstände_und_winkel/modellierung_geradlinigen_bewegungen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
  []
 
-) (./src/vektoren/abstände_und_winkel/vektorielle_beweise.tex))) (./src/stochastik.tex [13]
+[14]) (./src/vektoren/abstände_und_winkel/vektorielle_beweise.tex))) (./src/stochastik.tex [15]
 Chapter 4.
-(./src/stochastik/grundlagen_der_wahrscheinlichkeit.tex (./src/stochastik/grundlagen_der_wahrscheinlichkeit/elementare_kombinatorik.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/pfadregeln_und_erwartungswerte.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/bedingte_wahrscheinlichkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/stochastische_unabhängigkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/formel_von_bernoulli_und_binomialverteilung.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/erwartungswert_und_histogramm.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/problemlösen_mit_binomialverteilung.tex)) (./src/stochastik/normalverteilung.tex (./src/stochastik/normalverteilung/normalverteilung.tex) (./src/stochastik/normalverteilung/gaußsche_glockenfunktion.tex) (./src/stochastik/normalverteilung/sigma_regeln.tex) (./src/stochastik/normalverteilung/umkehraufgaben_zur_normalverteilung.tex) (./src/stochastik/normalverteilung/stetige_zufallsgrößen.tex)) (./src/stochastik/testen_mit_der_binomialverteilung.tex (./src/stochastik/testen_mit_der_binomialverteilung/einseitiger_hpothesentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/fehler_beim_testen_von_hypthesen.tex) (./src/stochastik/testen_mit_der_binomialverteilung/wahl_der_nullhypothese.tex) (./src/stochastik/testen_mit_der_binomialverteilung/zweiseitiger_hypothentest.tex))) (./src/fehlt.tex [14
+(./src/stochastik/grundlagen_der_wahrscheinlichkeit.tex (./src/stochastik/grundlagen_der_wahrscheinlichkeit/elementare_kombinatorik.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/pfadregeln_und_erwartungswerte.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/bedingte_wahrscheinlichkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/stochastische_unabhängigkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/formel_von_bernoulli_und_binomialverteilung.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/erwartungswert_und_histogramm.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/problemlösen_mit_binomialverteilung.tex)) (./src/stochastik/normalverteilung.tex (./src/stochastik/normalverteilung/normalverteilung.tex) (./src/stochastik/normalverteilung/gaußsche_glockenfunktion.tex) (./src/stochastik/normalverteilung/sigma_regeln.tex) (./src/stochastik/normalverteilung/umkehraufgaben_zur_normalverteilung.tex) (./src/stochastik/normalverteilung/stetige_zufallsgrößen.tex)) (./src/stochastik/testen_mit_der_binomialverteilung.tex (./src/stochastik/testen_mit_der_binomialverteilung/einseitiger_hpothesentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/fehler_beim_testen_von_hypthesen.tex) (./src/stochastik/testen_mit_der_binomialverteilung/wahl_der_nullhypothese.tex) (./src/stochastik/testen_mit_der_binomialverteilung/zweiseitiger_hypothentest.tex))) (./src/fehlt.tex [16
 
 ]
 Chapter 5.
-) [15
+) [17
 
 ] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 85DC6975ECDA04413B9F81430B8BB654;16173.
+(rerunfilecheck)             Checksum: 8F926FC0F6FC3B5C502A619BB871DD9B;16305.
  ) 
 Here is how much of TeX's memory you used:
- 15081 strings out of 476034
- 257520 string characters out of 5792855
+ 15100 strings out of 476034
+ 257964 string characters out of 5792855
  1869388 words of memory out of 6000000
- 34815 multiletter control sequences out of 15000+600000
- 569322 words of font info for 115 fonts, out of 8000000 for 9000
+ 34818 multiletter control sequences out of 15000+600000
+ 569797 words of font info for 120 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 96i,13n,93p,1001b,523s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 96i,13n,93p,1001b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (16 pages, 231554 bytes).
+Output written on main.pdf (18 pages, 233463 bytes).
 PDF statistics:
- 635 PDF objects out of 1000 (max. 8388607)
- 584 compressed objects within 6 object streams
- 112 named destinations out of 1000 (max. 500000)
- 37577 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 649 PDF objects out of 1000 (max. 8388607)
+ 596 compressed objects within 6 object streams
+ 115 named destinations out of 1000 (max. 500000)
+ 37585 words of extra memory for PDF output out of 42996 (max. 10000000)
 
