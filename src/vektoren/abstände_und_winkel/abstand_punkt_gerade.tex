@@ -1,1 +1,97 @@
 \subsection{Abstand von Punkt zu Gerade}
+\underline{Erklärung}: \\
+Um den Abstand von einem Punkt zu einer Geraden zu berechnen erstellt man eine Hilfsebene.
+Diese dient dazu, den Durchstoßpunkt und somit den Lotfußpunkt zu finden (kürzester Weg zur Geraden). 
+Die Ebene wird erst durch die Normalenform und damit in die Koordinatenform umgeformt. \\
+Ca so: \\
+$
+(\vec{x} - \vec{p}) \bullet \vec{n} \\
+\rightarrow \vec{x} \bullet \vec{n} = \vec{p} \bullet \vec{n} \\
+\rightarrow x_1a + x_2b + x_3c = d
+$
+\\
+Dabei steht: 
+\begin{itemize}
+    \item $\vec{x}$: Einzusetzender Punkt (wird später die Gerade in Koordinatenform eingesetzt)
+    \item $\vec{n}$: Normalenvektor. Ist der Richtungsvektor von Geraden 
+    \item $\vec{p}$: Stützvektor. Ist der gegebene Punkt
+\end{itemize}
+Damit kann man dann die komplette Gerade $\vec{x}$ einsetzen 
+(jeweils für die Axen) und letztendlich ausgleichen. 
+Das Ergebnis (eine Zahl) wird dann für $\lambda$ eingesetz und hat somit $F$.
+Mit dem Ergebnis: $F$ und dem Punkt $P$ berechnen man den Betrag $|\overrightarrow{PF}|$. \\
+Damit hat man den Abstand von Punkt zu Gerade.
+\\\\
+\underline{Zahlenbeispiel}: \\
+Gegeben: 
+\begin{itemize}
+    \item Punkt: $P(5|6|-1)$
+    \item Gerade: $
+        \vec{g} = 
+        \begin{Bmatrix}
+            1 \\ 1 \\ 1
+        \end{Bmatrix}
+        + \lambda \cdot
+        \begin{Bmatrix}
+            6 \\ 3 \\ 6
+        \end{Bmatrix}
+        $
+\end{itemize}
+Durchführung: \\
+Aufstellen der Normalenform: \\
+$
+E: (\vec{x} - \vec{p}) \bullet \vec{n} = 0\\
+E: 
+\begin{pmatrix}
+    \begin{Bmatrix}
+        x_1 \\ x_2 \\ x_3
+    \end{Bmatrix}
+    - 
+    \begin{Bmatrix}
+        1 \\ 1 \\ 1
+    \end{Bmatrix}
+\end{pmatrix}
+\bullet
+\begin{Bmatrix}
+    6 \\ 3 \\ 6
+\end{Bmatrix}
+= 0 \\
+\Rightarrow
+\vec{x} \bullet \vec{n} = \vec{p} \bullet \vec{n} \\
+= x_1\cdot 6 + x_2 \cdot 3 + x_3 \cdot 6 = 42
+$
+\\
+\
+\\
+Setze Gerade in $\vec{x}$ ein: \\
+$
+6(1+6s) + 3(1+3s) + 6(1+6s) = 42 \\
+6 + 3 + 6 + 6s + 3s + 6s = 42 \\
+15 + 81s = 42
+s = \frac{1}{3}
+$
+\\
+\
+\\ 
+Setzte das Ergebnis für $\lambda$ ein und erhalte $F$: \\
+$
+g(x) = 
+\begin{Bmatrix}
+    1 \\ 1 \\ 1
+\end{Bmatrix}
++ \frac{1}{3} \cdot
+\begin{Bmatrix}
+    6 \\ 3 \\ 6
+\end{Bmatrix}
+= 
+\begin{Bmatrix}
+    3 \\ 2 \\ 3
+\end{Bmatrix}
+$
+\\
+\
+\\
+Berechne $|\overrightarrow{PF}|$: \\
+$\sqrt{36} = 6$
+\\
+Somit ist die Länge: $6$
