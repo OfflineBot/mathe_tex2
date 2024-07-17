@@ -1,3 +1,82 @@
 \subsection{Lage von Geraden}
 \subsubsection{Lotfußpunkt Berechnen}
+\underline{Bei windschiefen Geraden}: \\
+Um den geringsten Abstand zweier Windschiefen geraden zu berechnen, 
+erstellt man eine Hilfsebene aus einer Geraden indem man den zweiten Richtungsvektor für die Ebene aus dem Richtungsvektor aus der zweiten Geraden nimmt. 
+Dann muss man einen beliebigen Abstand von Gerade und Ebene ausrechnen und hat damit das Ergebnis.
+\\\\
+\underline{Formel}: \\
+Gegeben: \\
+$
+g: \vec{x} = \vec{p} + s \cdot \vec{u} \\
+h: \vec{x} = \vec{q} + t \cdot \vec{v}
+$
+\\
+Berechnung: \\
+$
+d(g; h) = |(\vec{q} - \vec{p}) \bullet \vec{n_0}|
+$
+\\\\
+Dabei ist $\vec{n_0}$: $\frac{\vec{n}}{|\vec{n}|}$
+\\\\\\
+\underline{Zahlenbeispiel}: \\
+Gegeben: \\
+$
+g: \vec{x} = 
+\begin{Bmatrix}
+    9 \\ -8 \\ 6
+\end{Bmatrix}
++ \lambda \cdot
+\begin{Bmatrix}
+    2 \\ -3 \\ 2
+\end{Bmatrix} 
+\\
+h: \vec{x} = 
+\begin{Bmatrix}
+    0 \\ -1 \\ 1
+\end{Bmatrix}
++ \mu \cdot 
+\begin{Bmatrix}
+    1 \\ -1 \\ 0
+\end{Bmatrix}
+$
+\\
+Berechnung: \\
+$
+d(g; h) = |(\vec{q} - \vec{p}) \bullet \vec{n_0}| \\
+ = |
+ \begin{Bmatrix}
+    9 - 0 \\ -8 + 1 \\ 6 - 1
+ \end{Bmatrix}
+ = 
+ \begin{Bmatrix}
+    9 \\ -7 \\ 5
+ \end{Bmatrix}
+$
+\\
+Für $\vec{n}$ Kreuzprodukt anwenden von Richtungsvektoren (mehr dazu \hyperref[sec:kreuzprodukt]{hier}). \\
+Ausgerechnet: \\
+$
+\vec{n} = 
+\begin{Bmatrix}
+    2 \\ 2 \\ 1
+\end{Bmatrix}
+\\
+|\vec{n}| = 3
+$
+\\
+Einsetzen: \\
+$
+\begin{Bmatrix}
+    9 \\ -7 \\ 5
+\end{Bmatrix}
+\bullet
+\begin{Bmatrix}
+    2 \\ 2 \\ 1
+\end{Bmatrix}
+\cdot \frac{1}{3}
+= 
+3
+$
+
 \subsubsection{Schnittpunkt Berechnen}
