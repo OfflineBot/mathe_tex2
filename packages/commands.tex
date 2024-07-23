@@ -11,9 +11,9 @@
 \titleformat{\chapter}[block] %chapter format
 {\normalfont\huge\bfseries}{Kapitel \thechapter:}{20pt}{\huge} % chapter format
 
-\titleformat{\section}[block]{\vspace{1cm}\huge\bfseries}{\thesection}{1em}{}
-\titleformat{\subsection}[block]{\vspace{1cm}\Large\bfseries}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}[block]{\vspace{0.2cm}\large\bfseries}{\thesubsubsection}{1em}{}
+%\titleformat{\section}[block]{\vspace{1cm}\huge\bfseries}{\thesection}{1em}{}
+%\titleformat{\subsection}[block]{\vspace{1cm}\Large\bfseries}{\thesubsection}{1em}{}
+%\titleformat{\subsubsection}[block]{\vspace{0.2cm}\large\bfseries}{\thesubsubsection}{1em}{}
 
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
 \renewcommand{\cftchapfont}{\normalfont}
@@ -28,6 +28,10 @@
 
 \definecolor{bgcolor}{HTML}{0e0e0e}
 \definecolor{textcolor}{HTML}{acaccc}
+
+\newcommand{\secspacehuge}{\vspace{1cm}}
+\newcommand{\secspacebig}{\vspace{0.5cm}}
+\newcommand{\secspacesmall}{\vspace{0.2cm}}
 
 \pagecolor{bgcolor}
 \color{textcolor}
