@@ -1,4 +1,29 @@
+
 \section{Wichtige Formeln}
 \subsection{Ableitung - Aufleitung}
 \hyperref[sec:aufleitungs_regeln]{Aufleitungsregeln} \\
 \hyperref[sec:ableitungs_regeln]{Ableitungsregeln}
+
+\section{Notationen}
+
+\section{Schreibweisen}
+\subsection{Graphen beschriften}
+\begin{tikzpicture}
+    \draw[->] (0,0,0) -- (3,0,0) node[anchor=north east] {$x$};
+    \draw[->] (0,0,0) -- (0,3,0) node[anchor=north west] {$y$};
+    \foreach \x in {1,2} \draw (\x,0,0) -- (\x,-0.1,0) node[anchor=north] {\x};
+    \foreach \y in {1,2} \draw (0,\y,0) -- (-0.1,\y,0) node[anchor=east] {\y};
+\end{tikzpicture}
+
+\begin{tikzpicture}
+
+    \draw[->] (0,0,0) -- (3,0,0) node[anchor=north east] {$y$}; 
+    \draw[->] (0,0,0) -- (0,3,0) node[anchor=north west] {$z$}; 
+    \draw[->] (0,0,0) -- (0,0,3) node[anchor=south] {$x$}; 
+
+    \foreach \x in {1,2} \draw (\x,0,0) -- (\x,-0.1,0) node[anchor=north] {\x};
+    \foreach \y in {1,2} \draw (0,\y,0) -- (-0.1,\y,0) node[anchor=east] {\y};
+    \foreach \z in {1,2} \draw (0,0,\z) -- (-0.1,0,\z) node[anchor=south] {\z};
+
+\end{tikzpicture}
+

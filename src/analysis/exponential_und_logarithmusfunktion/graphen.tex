@@ -1,1 +1,65 @@
 \subsection{Graphen}
+
+\parbox[t]{0.3\textwidth}{
+    \underline{Exponentielle Steigung}: 
+
+    \scalebox{0.6}{
+        \begin{tikzpicture}
+            \begin{axis}[
+                axis lines=middle,
+                xlabel={$x$},
+                ylabel={$y$},
+                title={Funktion: $f(x) = e^x$},
+                %grid=major,
+                domain=-2:2, % Range for x
+                samples=100, % Number of samples for smoothness
+                ]
+                \addplot[blue, thick] {exp(x)};
+                %\legend{$y = e^x$}
+            \end{axis}
+        \end{tikzpicture}
+    }
+}
+\hfill
+\parbox[t]{0.3\textwidth}{
+    \underline{Exponentieller Zerfall}: 
+
+    \scalebox{0.6}{
+        \begin{tikzpicture}
+            \begin{axis}[
+                axis lines=middle,
+                xlabel={$x$},
+                ylabel={$y$},
+                title={Funktion: $f(x) = e^{-x}$},
+                %grid=major,
+                domain=-2:2, % Range for x
+                samples=100, % Number of samples for smoothness
+                ]
+                \addplot[blue, thick] {exp(-x)};
+                %\legend{$y = e^x$}
+            \end{axis}
+        \end{tikzpicture}
+    }
+}
+\hfill
+\parbox[t]{0.3\textwidth}{
+    \underline{Konstant (nicht Exponential)}:
+
+    \scalebox{0.6}{
+        \begin{tikzpicture}
+            \begin{axis}[
+                axis lines=middle,
+                xlabel={$x$},
+                ylabel={$y$},
+                title={Funktion: $f(x) = e^{1}$},
+                %grid=major,
+                domain=-2:2, % Range for x
+                samples=100, % Number of samples for smoothness
+                ]
+                \addplot[blue, thick] {exp(1)};
+                %\legend{$y = e^x$}
+            \end{axis}
+        \end{tikzpicture}
+    }
+}
+
