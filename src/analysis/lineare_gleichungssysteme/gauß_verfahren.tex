@@ -1,1 +1,47 @@
 \subsection{Gauß-Verfahren}
+Das Gauß-Verfahren ist eine Art der Lösung eines linearen Gleichungssystem. 
+Das Gauß-Verfahren wird mithilfe der Matrixschreibweise ausgerechnet.
+
+Hier ist nur eine ganz kurze Erklärung! 
+Für mehr \href{https://simpleclub.com/lessons/mathematik-gaussalgorithmus}{hier} Klicken.
+
+\underline{Beispiel}: \\
+Das Gleichungssystem: 
+
+\begin{align*}
+    2x + 3y - z &= 5 \\
+    4x - y + 5z &= 6 \\
+    -2x + 2y + 3z &= -4
+\end{align*}
+
+Vereinfachen zur Matrix: 
+
+$$
+\left[
+\begin{array}{ccc|c}
+    2 & 3 & 1 & 5 \\
+    4 & -1 & 5 & 6 \\
+    -2 & 2 & 3 & -4
+\end{array}
+\right]
+$$
+
+Dabei ist es wichtig \textbf{Nullen} zu erschaffen indem man Zeilen miteinander \textbf{Addiert} oder \textbf{Subtrahiert}. \\
+Man kann auch einzelne Zeilen \textbf{Multiplizieren} oder \textbf{Dividieren} um dies zu vereinfachen/möglich machen. \\
+Die Nullen müssen ein einer Pyramidenartigen anordnung bestehen um das Ergebnis (rechte Seite) eindeutig bestimmen zu können. 
+
+Etwa so: \\
+\textbf{Wichtig:} Zahlen werden hier nur ersetzt und nicht wirklich ausgerechnet!
+
+$$
+\left[
+\begin{array}{ccc|c}
+    2 & 3 & 1 & 5 \\
+    0 & -1 & 5 & 6 \\
+    0 & 0 & 3 & -4
+\end{array}
+\right]
+$$
+
+Damit kann man die Gleichung: $3x_3 = -4$ aufstellen um $x_3$ zu bekommen. \\
+Danach hat man $-1x_2 + 5x_3 = 6$ und kann für $x_3$ das Ergebnis von davor einsetzen. 
