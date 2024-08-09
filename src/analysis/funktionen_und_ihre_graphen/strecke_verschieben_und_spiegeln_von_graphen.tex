@@ -7,6 +7,66 @@ $f(x) \rightarrow\ a\cdot f(x)$ \\
 $a > 1$ ist eine \textbf{Streckung} \\
 $a < 1$ ist eine \textbf{Stauchung} 
 
+\parbox[t]{0.3\textwidth}{
+    \scalebox{0.7}{
+        \begin{tikzpicture}
+            \begin{axis}[
+                axis lines=middle,
+                xlabel={$x$},
+                ylabel={$y$},
+                title={Funktion: $f(x) = x^2$},
+                %grid=major,
+                domain=-2:2, % Range for x
+                samples=100, % Number of samples for smoothness
+                xmin=-3,xmax=3,ymin=-1,ymax=4
+                ]
+                \addplot[blue, thick] {x^2};
+                %\legend{$y = e^x$}
+            \end{axis}
+        \end{tikzpicture}
+    }
+}
+\hfill
+\parbox[t]{0.3\textwidth}{
+    \scalebox{0.7}{
+        \begin{tikzpicture}
+            \begin{axis}[
+                axis lines=middle,
+                xlabel={$x$},
+                ylabel={$y$},
+                title={Funktion: $f(x) = 4 \cdot x^2$},
+                %grid=major,
+                domain=-2:2, % Range for x
+                samples=100, % Number of samples for smoothness
+                xmin=-3,xmax=3,ymin=-1,ymax=4
+                ]
+                \addplot[blue, thick] {4*x^2};
+                %\legend{$y = e^x$}
+            \end{axis}
+        \end{tikzpicture}
+    }
+}
+\hfill
+\parbox[t]{0.3\textwidth}{
+    \scalebox{0.7}{
+        \begin{tikzpicture}
+            \begin{axis}[
+                axis lines=middle,
+                xlabel={$x$},
+                ylabel={$y$},
+                title={Funktion: $f(x) = 0.2 \cdot x^2$},
+                %grid=major,
+                domain=-3:3, % Range for x
+                samples=100, % Number of samples for smoothness
+                xmin=-3,xmax=3,ymin=-1,ymax=4
+                ]
+                \addplot[blue, thick] {0.2*x^2};
+                %\legend{$y = e^x$}
+            \end{axis}
+        \end{tikzpicture}
+    }
+}
+
 \underline{Horzontale Streckung:} \\
 $f(x) \rightarrow\ f(x \cdot b)$ \\
 $b > 1$ ist eine \textbf{Stauchung} \\
