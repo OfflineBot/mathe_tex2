@@ -1,3 +1,6 @@
+%%%%%%%%%%%
+%%%%%%%%%%% I DONT KNOW
+%%%%%%%%%%%
 
 \setcounter{secnumdepth}{3}
 \setcounter{tocdepth}{3}
@@ -8,22 +11,56 @@
 
 \renewcommand{\contentsname}{Inhalt} % table of contents <Name>
 
-%%%%
-%%%% TITLE
-%%%%
 
-\titleformat{\chapter}[block] 
-{\normalfont\huge\bfseries}{Kapitel \thechapter:}{20pt}{\huge\uline}
+%%%%%%%%%
+%%%%%%%%% TITLES
+%%%%%%%%%
+
+% CHAPTER
+%\titleformat{\chapter}[block] 
+%{\normalfont\huge\bfseries}{Kapitel \thechapter:}{20pt}{\huge\uline}
+
+\titleformat{\chapter}[block]
+    {\normalfont\Huge\bfseries} % Style of the chapter title
+    {Kapitel \thechapter:} % Chapter numbering
+    {10pt} % Space between number and title
+    {\Huge} % Style of chapter title text
+    [\vspace{-30pt}\rule{\textwidth}{3pt}] % Add a thick underline below the chapter title
+
+% SECTION
 
 \titleformat{\section}[block]
-{\huge\bfseries}{\thesection}{1em}{}
+    {\normalfont\huge\bfseries} % Style of the chapter title
+    {\thesection} % Chapter numbering
+    {10pt} % Space between number and title
+    {\Huge} % Style of chapter title text
+    [\vspace{-30pt}\rule{\textwidth}{1pt}] % Add a thick underline below the chapter title
 
+
+%\titleformat{\section}[block]
+%{\huge\bfseries}{\thesection}{1em}{}
+
+% SUBSECTION
 \titleformat{\subsection}[block]
-{\Large\bfseries}{\thesubsection}{1em}{}
+{\Large\bfseries}{\thesubsection}{1em}{\Large\uline}
 
+% SUBSUBSECTION
 \titleformat{\subsubsection}[block]
-{\large\bfseries}{\thesubsubsection}{1em}{}
+{\large\bfseries}{\thesubsubsection}{1em}{\large\uline}
 
+
+%%%%% 
+%%%%% TITLE COMMANDS
+%%%%% 
+
+\renewcommand{\thesection}{\thechapter.\arabic{section}}
+\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\thesubsection.\arabic{subsubsection}}
+
+
+%%%%%%%%%%%
+%%%%%%%%%%% I DONT KNOW
+%%%%%%%%%%%
 
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
 \renewcommand{\cftchapfont}{\normalfont}
@@ -36,13 +73,19 @@
 
 \renewcommand{\familydefault}{\sfdefault}
 
-\definecolor{bgcolor}{HTML}{0e0e0e}
-\definecolor{textcolor}{HTML}{acaccc}
+%%%%%%%%%%%
+%%%%%%%%%%% CUSTOM COMMANDS
+%%%%%%%%%%%
 
 \newcommand{\secspacehuge}{\vspace{2cm}}
 \newcommand{\secspacebig}{\vspace{0cm}}
 \newcommand{\secspacesmall}{\vspace{1cm}}
 
+%%%%%%%%%%%
+%%%%%%%%%%% CUSTOM COLORS
+%%%%%%%%%%%
+
+\definecolor{bgcolor}{HTML}{0e0e0e}
+\definecolor{textcolor}{HTML}{acaccc}
 \pagecolor{bgcolor}
 \color{textcolor}
-
