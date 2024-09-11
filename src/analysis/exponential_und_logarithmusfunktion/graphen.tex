@@ -1,7 +1,7 @@
 \subsection{Graphen}
 
 \parbox[t]{0.3\textwidth}{
-    \underline{Exponentielle Steigung}: 
+    \textbf{Exponentielle Steigung}: 
 
     \scalebox{0.6}{
         \begin{tikzpicture}
@@ -22,7 +22,7 @@
 }
 \hfill
 \parbox[t]{0.3\textwidth}{
-    \underline{Exponentieller Zerfall}: 
+    \textbf{Exponentieller Zerfall}: 
 
     \scalebox{0.6}{
         \begin{tikzpicture}
@@ -43,7 +43,7 @@
 }
 \hfill
 \parbox[t]{0.3\textwidth}{
-    \underline{Konstant (nicht Exponential)}:
+    \textbf{Konstant (nicht Exponential)}:
 
     \scalebox{0.6}{
         \begin{tikzpicture}
@@ -57,6 +57,54 @@
                 samples=100, % Number of samples for smoothness
                 ]
                 \addplot[blue, thick] {exp(1)};
+                %\legend{$y = e^x$}
+            \end{axis}
+        \end{tikzpicture}
+    }
+}
+
+\vspace{0.3cm}
+
+\parbox[t]{0.4\textwidth}{
+    \textbf{Logarithmusfunktion}: 
+
+    \scalebox{0.8}{
+        \begin{tikzpicture}
+            \begin{axis}[
+                axis lines=middle,
+                xlabel={$x$},
+                ylabel={$y$},
+                title={Funktion: $f(x) = ln(x)$},
+                %grid=major,
+                domain=-2:2, % Range for x
+                samples=100, % Number of samples for smoothness
+                ]
+                \addplot[blue, thick] {ln(x)};
+                %\legend{$y = e^x$}
+            \end{axis}
+        \end{tikzpicture}
+    }
+}
+\hfill
+\parbox[t]{0.4\textwidth}{
+    \textbf{Vergleich: e/ln/x=y:}
+
+    \scalebox{0.8}{
+        \begin{tikzpicture}
+            \begin{axis}[
+                axis lines=middle,
+                xlabel={$x$},
+                ylabel={$y$},
+                title={Funktionen: $e^x$ und $ln(x)$ im vergleich},
+                %grid=major,
+                %domain=-10:10, % Range for x
+                xmin=-10,xmax=10,
+                ymin=-10,ymax=10,
+                samples=100, % Number of samples for smoothness
+                ]
+                \addplot[blue, thick, domain=exp(-10):10] {ln(x)};
+                \addplot[red, thick, domain=-10:3] {exp(x)};
+                \addplot[yellow, thick, domain=-10:10] {x};
                 %\legend{$y = e^x$}
             \end{axis}
         \end{tikzpicture}
