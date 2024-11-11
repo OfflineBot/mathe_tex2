@@ -1,1 +1,34 @@
 \subsection{Formel von Bernoulli und Binomialverteilung}
+\label{sec:bernoulli}
+Formel: 
+
+\[
+    P(X = k) = 
+    \begin{pmatrix}
+        n \\ k
+    \end{pmatrix}
+    \cdot p^k \cdot q^{n-k}
+\]
+
+Hierbei bedeuten:
+\begin{itemize}
+    \item $
+    \begin{pmatrix}
+        n \\ k
+    \end{pmatrix}
+    $
+    (ausgesprochen "n über k"). 
+    $n$ ist anzahl der Versuche und $k$ die anzahl der Möglichkeiten. Wird wie folgt berechnet: 
+    \[
+        \begin{pmatrix}
+            n \\ k
+        \end{pmatrix}
+        =
+        \frac{n!}{k!(n-k!)}
+    \]
+
+    \item $p^k$: Die Wahrscheinlichkeit, dass $k$ Erfolge auftreten.
+    \item $q^{n-k}$: Auch $(1-p)^{n-k}$ geschrieben. Gibt die Misserfolge an. (Restwahrscheinlichkeit um auf $100\%$ zu kommen)
+\end{itemize}
+
+Also ist $P(X=k)$ die Wahrscheinlichkeit, dass in $n$ Versuchen genau $k$ Erfolge erzielt werden, wenn die Erfolgswahrscheinlichkeit in jedem Versuch $p$ beträgt.

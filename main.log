@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  18 OCT 2024 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  11 NOV 2024 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -872,7 +872,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.14 
-      [1] (./src/analysis.tex [2] [3]
+      [1] [2] (./src/analysis.tex [3]
 Chapter 1.
 (./src/analysis/grundlagen_der_differenzialrechnung.tex
 Overfull \hbox (4.29588pt too wide) in paragraph at lines 1--1
@@ -981,9 +981,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
 ) (./src/vektoren/abstände_und_winkel/vektorielle_beweise.tex))) (./src/stochastik.tex [23] [24]
 Chapter 3.
-(./src/stochastik/grundlagen_der_wahrscheinlichkeit.tex (./src/stochastik/grundlagen_der_wahrscheinlichkeit/elementare_kombinatorik.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/pfadregeln_und_erwartungswerte.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/bedingte_wahrscheinlichkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/stochastische_unabhängigkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/formel_von_bernoulli_und_binomialverteilung.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/erwartungswert_und_histogramm.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/problemlösen_mit_binomialverteilung.tex)) [25
+(./src/stochastik/grundlagen_der_wahrscheinlichkeit.tex (./src/stochastik/grundlagen_der_wahrscheinlichkeit/elementare_kombinatorik.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/pfadregeln_und_erwartungswerte.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/bedingte_wahrscheinlichkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/stochastische_unabhängigkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/formel_von_bernoulli_und_binomialverteilung.tex [25
 
-] [26] (./src/stochastik/normalverteilung.tex (./src/stochastik/normalverteilung/normalverteilung.tex) (./src/stochastik/normalverteilung/gaußsche_glockenfunktion.tex) (./src/stochastik/normalverteilung/sigma_regeln.tex) (./src/stochastik/normalverteilung/umkehraufgaben_zur_normalverteilung.tex) (./src/stochastik/normalverteilung/stetige_zufallsgrößen.tex)) [27] (./src/stochastik/testen_mit_der_binomialverteilung.tex (./src/stochastik/testen_mit_der_binomialverteilung/einseitiger_hpothesentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/fehler_beim_testen_von_hypthesen.tex) (./src/stochastik/testen_mit_der_binomialverteilung/wahl_der_nullhypothese.tex) (./src/stochastik/testen_mit_der_binomialverteilung/zweiseitiger_hypothentest.tex))) (./src/allgemein.tex [28]
+]) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/erwartungswert_und_histogramm.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/problemlösen_mit_binomialverteilung.tex)) [26] (./src/stochastik/normalverteilung.tex (./src/stochastik/normalverteilung/normalverteilung.tex) (./src/stochastik/normalverteilung/gaußsche_glockenfunktion.tex) (./src/stochastik/normalverteilung/sigma_regeln.tex) (./src/stochastik/normalverteilung/umkehraufgaben_zur_normalverteilung.tex) (./src/stochastik/normalverteilung/stetige_zufallsgrößen.tex)) [27] (./src/stochastik/testen_mit_der_binomialverteilung.tex (./src/stochastik/testen_mit_der_binomialverteilung/einseitiger_hpothesentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/fehler_beim_testen_von_hypthesen.tex) (./src/stochastik/testen_mit_der_binomialverteilung/wahl_der_nullhypothese.tex) (./src/stochastik/testen_mit_der_binomialverteilung/zweiseitiger_hypothentest.tex))) (./src/allgemein.tex [28]
 Chapter 4.
 (./src/allgemein/wichitge_formeln.tex)) (./src/fehlt.tex [29
 
@@ -997,21 +997,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AD0B6EBCB052AA2AEA62D415518E925F;18147.
+(rerunfilecheck)             Checksum: 8C3E66D6369E64146FDA9BBD3FEFC550;18105.
  ) 
 Here is how much of TeX's memory you used:
- 35584 strings out of 474116
- 847986 string characters out of 5720541
+ 35592 strings out of 474116
+ 848130 string characters out of 5720541
  1979187 words of memory out of 5000000
- 56836 multiletter control sequences out of 15000+600000
- 628580 words of font info for 148 fonts, out of 8000000 for 9000
+ 56841 multiletter control sequences out of 15000+600000
+ 628663 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,19n,104p,1193b,2038s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmex10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmmi10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmmi5.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmmi7.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmr10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmr5.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmr7.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmss10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmss12.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmss17.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmssbo10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmssbx10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmsy10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmsy5.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (32 pages, 336424 bytes).
+Output written on main.pdf (32 pages, 339294 bytes).
 PDF statistics:
- 783 PDF objects out of 1000 (max. 8388607)
- 710 compressed objects within 8 object streams
- 140 named destinations out of 1000 (max. 500000)
- 45869 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 792 PDF objects out of 1000 (max. 8388607)
+ 719 compressed objects within 8 object streams
+ 141 named destinations out of 1000 (max. 500000)
+ 45877 words of extra memory for PDF output out of 51595 (max. 10000000)
 
