@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  11 NOV 2024 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  11 NOV 2024 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -997,21 +997,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8C3E66D6369E64146FDA9BBD3FEFC550;18105.
+(rerunfilecheck)             Checksum: 6806A8F8E738FDDA804855F57BDB2EAA;18188.
  ) 
 Here is how much of TeX's memory you used:
- 35592 strings out of 474116
- 848130 string characters out of 5720541
+ 35597 strings out of 474116
+ 848228 string characters out of 5720541
  1979187 words of memory out of 5000000
- 56841 multiletter control sequences out of 15000+600000
+ 56845 multiletter control sequences out of 15000+600000
  628663 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,19n,104p,1193b,2038s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmex10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmmi10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmmi5.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmmi7.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmr10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmr5.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmr7.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmss10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmss12.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmss17.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmssbo10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmssbx10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmsy10.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmsy5.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (32 pages, 339294 bytes).
+Output written on main.pdf (32 pages, 339164 bytes).
 PDF statistics:
- 792 PDF objects out of 1000 (max. 8388607)
- 719 compressed objects within 8 object streams
- 141 named destinations out of 1000 (max. 500000)
- 45877 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 801 PDF objects out of 1000 (max. 8388607)
+ 728 compressed objects within 8 object streams
+ 142 named destinations out of 1000 (max. 500000)
+ 45885 words of extra memory for PDF output out of 51595 (max. 10000000)
 
