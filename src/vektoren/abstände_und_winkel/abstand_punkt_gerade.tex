@@ -1,27 +1,16 @@
 \subsection{Abstand von Punkt zu Gerade}
-\underline{Erklärung}: \\
+\underline{Erklärung}: 
+
 Um den Abstand von einem Punkt zu einer Geraden zu berechnen erstellt man eine Hilfsebene.
 Diese dient dazu, den Durchstoßpunkt und somit den Lotfußpunkt zu finden (kürzester Weg zur Geraden). 
-Die Ebene wird erst durch die Normalenform und damit in die Koordinatenform umgeformt. \\
-Ca so: \\
-$
-(\vec{x} - \vec{p}) \bullet \vec{n} \\
-\rightarrow \vec{x} \bullet \vec{n} = \vec{p} \bullet \vec{n} \\
-\rightarrow x_1a + x_2b + x_3c = d
-$
-\\
-Dabei steht: 
-\begin{itemize}
-    \item $\vec{x}$: Einzusetzender Punkt (wird später die Gerade in Koordinatenform eingesetzt)
-    \item $\vec{n}$: Normalenvektor. Ist der Richtungsvektor von Geraden 
-    \item $\vec{p}$: Stützvektor. Ist der gegebene Punkt
-\end{itemize}
+Die Ebene wird erst durch die Normalenform und damit in die Koordinatenform umgeformt. 
+
 Damit kann man dann die komplette Gerade $\vec{x}$ einsetzen 
 (jeweils für die Axen) und letztendlich ausgleichen. 
 Das Ergebnis (eine Zahl) wird dann für $\lambda$ eingesetz und hat somit $F$.
 Mit dem Ergebnis: $F$ und dem Punkt $P$ berechnen man den Betrag $|\overrightarrow{PF}|$. \\
 Damit hat man den Abstand von Punkt zu Gerade.
-\par
+
 \underline{Zahlenbeispiel}: \\
 Gegeben: 
 \begin{itemize}
@@ -37,57 +26,82 @@ Gegeben:
         \end{Bmatrix}
         $
 \end{itemize}
-Durchführung: \\
-Aufstellen der Normalenform: \\
-$
-E: (\vec{x} - \vec{p}) \bullet \vec{n} = 0\\
-E: 
-\begin{pmatrix}
-    \begin{Bmatrix}
-        x_1 \\ x_2 \\ x_3
-    \end{Bmatrix}
-    - 
-    \begin{Bmatrix}
-        1 \\ 1 \\ 1
-    \end{Bmatrix}
-\end{pmatrix}
-\bullet
-\begin{Bmatrix}
-    6 \\ 3 \\ 6
-\end{Bmatrix}
-= 0 \\
-\Rightarrow
-\vec{x} \bullet \vec{n} = \vec{p} \bullet \vec{n} \\
-= x_1\cdot 6 + x_2 \cdot 3 + x_3 \cdot 6 = 42
-$
-\par
-Setze Gerade in $\vec{x}$ ein: \\
-$
-6(1+6s) + 3(1+3s) + 6(1+6s) = 42 \\
-6 + 3 + 6 + 6s + 3s + 6s = 42 \\
-15 + 81s = 42
-s = \frac{1}{3}
-$
-\par
-Setzte das Ergebnis für $\lambda$ ein und erhalte $F$: \\
-$
+
+Durchführung: 
+\begin{itemize}
+
+    \item Aufstellen der Normalenform: 
+\[
+\begin{gathered}
+    E: (\vec{x} - \vec{p}) \bullet \vec{n} = 0 \\
+    E: 
+    \begin{pmatrix}
+        \begin{pmatrix}
+            x_1 \\ x_2 \\ x_3
+        \end{pmatrix}
+        - 
+        \begin{pmatrix}
+            1 \\ 1 \\ 1
+        \end{pmatrix}
+    \end{pmatrix}
+    \bullet
+    \begin{pmatrix}
+        6 \\ 3 \\ 6
+    \end{pmatrix}
+    = 0 \\
+    \Rightarrow
+    \vec{x} \bullet \vec{n} = \vec{p} \bullet \vec{n} \\
+    = x_1\cdot 6 + x_2 \cdot 3 + x_3 \cdot 6 = 42
+\end{gathered}
+\]
+    \item Setze Gerade in $\vec{x}$ ein: 
+\[
+    \begin{aligned}
+        6(1+6s) + 3(1+3s) + 6(1+6s) &= 42  \\
+        6 + 3 + 6 + 6s + 3s + 6s &= 42 \\
+        15 + 81s &= 42 \\
+        s &= \frac{1}{3}
+    \end{aligned}
+\]
+Setzte das Ergebnis für $\lambda$ ein und erhalte $F$: 
+\[
+    \begin{gathered}
 g(x) = 
-\begin{Bmatrix}
+\begin{pmatrix}
     1 \\ 1 \\ 1
-\end{Bmatrix}
+\end{pmatrix}
 + \frac{1}{3} \cdot
-\begin{Bmatrix}
+\begin{pmatrix}
     6 \\ 3 \\ 6
-\end{Bmatrix}
+\end{pmatrix}
 = 
-\begin{Bmatrix}
+\begin{pmatrix}
     3 \\ 2 \\ 3
-\end{Bmatrix}
-$
-\par
-Berechne $|\overrightarrow{PF}|$: \\
-$\sqrt{36} = 6$
-\\
+\end{pmatrix}
+\end{gathered}
+\]
+
+Berechne $|\overrightarrow{PF}|$: 
+\[ 
+\begin{gathered}
+    |\begin{pmatrix}
+        3 \\ 2 \\ 3
+    \end{pmatrix}
+    -
+    \begin{pmatrix}
+        5 \\ 6 \\ -1
+    \end{pmatrix}|
+    =
+    |
+    \begin{pmatrix}
+        -2 \\ -4 \\ 4
+    \end{pmatrix}
+    |
+    \\
+    = 
+    \sqrt{(-2)^2 + (-4)^2 + 4^2} = \sqrt{36} = 6
+\end{gathered}
+\]
 Somit ist die Länge: $6$
 
-
+\end{itemize}
