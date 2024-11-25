@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.9)  25 NOV 2024 20:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.9)  25 NOV 2024 21:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -979,13 +979,13 @@ Chapter 2.
 Chapter 3.
 (./src/stochastik/grundlagen_der_wahrscheinlichkeit.tex (./src/stochastik/grundlagen_der_wahrscheinlichkeit/elementare_kombinatorik.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/pfadregeln_und_erwartungswerte.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/bedingte_wahrscheinlichkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/stochastische_unabhängigkeit.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/formel_von_bernoulli_und_binomialverteilung.tex [24
 
-]) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/erwartungswert_und_histogramm.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/problemlösen_mit_binomialverteilung.tex)) [25] (./src/stochastik/normalverteilung.tex (./src/stochastik/normalverteilung/normalverteilung.tex) (./src/stochastik/normalverteilung/gaußsche_glockenfunktion.tex) (./src/stochastik/normalverteilung/sigma_regeln.tex) (./src/stochastik/normalverteilung/umkehraufgaben_zur_normalverteilung.tex) (./src/stochastik/normalverteilung/stetige_zufallsgrößen.tex)) [26] (./src/stochastik/testen_mit_der_binomialverteilung.tex (./src/stochastik/testen_mit_der_binomialverteilung/einseitiger_hpothesentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/zweiseitiger_hypothentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/wahl_der_nullhypothese.tex) (./src/stochastik/testen_mit_der_binomialverteilung/fehler_beim_testen_von_hypthesen.tex))) (./src/allgemein.tex [27]
+]) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/erwartungswert_und_histogramm.tex) (./src/stochastik/grundlagen_der_wahrscheinlichkeit/problemlösen_mit_binomialverteilung.tex)) [25] (./src/stochastik/normalverteilung.tex (./src/stochastik/normalverteilung/normalverteilung.tex) (./src/stochastik/normalverteilung/gaußsche_glockenfunktion.tex) (./src/stochastik/normalverteilung/sigma_regeln.tex) (./src/stochastik/normalverteilung/umkehraufgaben_zur_normalverteilung.tex) (./src/stochastik/normalverteilung/stetige_zufallsgrößen.tex)) [26] (./src/stochastik/testen_mit_der_binomialverteilung.tex (./src/stochastik/testen_mit_der_binomialverteilung/hypothesentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/einseitiger_hpothesentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/zweiseitiger_hypothentest.tex) (./src/stochastik/testen_mit_der_binomialverteilung/wahl_der_nullhypothese.tex) (./src/stochastik/testen_mit_der_binomialverteilung/fehler_beim_testen_von_hypthesen.tex))) (./src/allgemein.tex [27] [28]
 Chapter 4.
-(./src/allgemein/wichitge_formeln.tex)) (./src/fehlt.tex [28
+(./src/allgemein/wichitge_formeln.tex)) (./src/fehlt.tex [29
 
 ]
 Chapter 5.
-) [29
+) [30
 
 ] (./main.aux)
  ***********
@@ -993,21 +993,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6FE6BF728781F2467348AA019ADA4BF1;17224.
+(rerunfilecheck)             Checksum: 955FB0C1D1B2C98616BC0906656CF743;17427.
  ) 
 Here is how much of TeX's memory you used:
- 35573 strings out of 476076
- 826347 string characters out of 5793775
+ 35628 strings out of 476076
+ 827768 string characters out of 5793775
  1979187 words of memory out of 5000000
- 56581 multiletter control sequences out of 15000+600000
- 628844 words of font info for 151 fonts, out of 8000000 for 9000
+ 56627 multiletter control sequences out of 15000+600000
+ 629036 words of font info for 153 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 104i,19n,104p,1193b,2038s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,19n,104p,1193b,2137s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (30 pages, 338179 bytes).
+Output written on main.pdf (31 pages, 344541 bytes).
 PDF statistics:
- 751 PDF objects out of 1000 (max. 8388607)
- 681 compressed objects within 7 object streams
- 132 named destinations out of 1000 (max. 500000)
- 45821 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 764 PDF objects out of 1000 (max. 8388607)
+ 693 compressed objects within 7 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 45829 words of extra memory for PDF output out of 51595 (max. 10000000)
 
